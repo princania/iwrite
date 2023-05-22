@@ -1,0 +1,7 @@
+[en]
+  title = "Prem's Blog"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en/"
+
