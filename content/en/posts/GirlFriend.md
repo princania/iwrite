@@ -11,4 +11,4 @@ Anyways, back to the topic. I want someone to fill in those gaps. I don't want s
 
 Someone who can play a guitar.
 Someone who isn't concerned about what other people thing about them.
-Must be good looking. (good looking for me not fair girls or girls with big tits, but rather who like to stay clean and hygienic, has good dressing sense, good hair done. Qualities that are not hereditary but rather learnt)
+Must be good looking. (good looking for me not fair girls or girls with big tits, but rather who like to stay clean and hygienic, has good dressing sense, good hair done. Qualities that are not hereditary but rather learnt).
