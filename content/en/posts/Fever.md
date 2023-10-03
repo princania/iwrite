@@ -5,7 +5,7 @@ description: I have common cold.
 draft: false
 ---
 
-{{< alert theme="danger" dir="ltr" >}} # warning, success, info, danger
+{{< alert theme="danger" dir="ltr" >}}
 Try listening to an ambient music while reading this.
 {{< /alert >}}
 
